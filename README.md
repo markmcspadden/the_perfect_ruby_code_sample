@@ -2,6 +2,10 @@
 
 Given at Houston Code Camp 2012.
 
+## Mantra
+
+The Perfect Ruby Code Sample will communicate a complete thought in a simple way that showcases your understanding of Ruby techniques. It will be well tested, well defended, and overall interesting.
+
 ## Inventory
 
 * Slides from Presentation
